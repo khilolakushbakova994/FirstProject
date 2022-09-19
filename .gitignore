@@ -1,3 +1,5 @@
-.idea
-out
-*.iml
+/out/
+/.idea/
+/FirstProject.iml
+*iml
+
